@@ -1,0 +1,11 @@
+DEPENDENCIES
+============
+* protobuf v3.5.0
+* cuda 9.0
+* cudnn 7.5
+
+INSTALL
+=======
+1. modify `Makefile.config`
+2. `make clean && make pycaffe`
+
