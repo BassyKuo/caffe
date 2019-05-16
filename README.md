@@ -1,10 +1,10 @@
 [![OS Version](https://img.shields.io/badge/OS-ubuntu%2016.04-blue.svg)](https://shields.io/)
 [![cuda](https://img.shields.io/badge/cuda-9.0-orange.svg)](https://developer.nvidia.com/cuda-90-download-archive) 
 [![cudnn](https://img.shields.io/badge/cudnn-7.5-orange.svg)](https://developer.nvidia.com/rdp/cudnn-download)
-[![lmdb](https://img.shields.io/badge/lmdb-ON-green.svg)](https://github.com/LMDB/lmdb)
-[![leveldb](https://img.shields.io/badge/leveldb-OFF-red.svg)](https://github.com/google/leveldb/tree/v1.20)
-[![hdf5](https://img.shields.io/badge/hdf5-OFF-red.svg)](https://github.com/UMKC-CPG/olcao/wiki/HDF5-Installation-Guide)
-[![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe) [![make](https://img.shields.io/badge/make-passing-green.svg)](https://github.com/LMDB/lmdb) [![cmake](https://img.shields.io/badge/cmake-untest-lightgray.svg)](https://nvidia.com)
+[![lmdb](https://img.shields.io/badge/lmdb-ON-success.svg)](https://github.com/LMDB/lmdb)
+[![leveldb](https://img.shields.io/badge/leveldb-OFF-inactive.svg)](https://github.com/google/leveldb/tree/v1.20)
+[![hdf5](https://img.shields.io/badge/hdf5-OFF-inactive.svg)](https://github.com/UMKC-CPG/olcao/wiki/HDF5-Installation-Guide)
+[![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe) [![make](https://img.shields.io/badge/make-passing-success.svg)](https://github.com/LMDB/lmdb) [![cmake](https://img.shields.io/badge/cmake-untest-lightgray.svg)](https://nvidia.com)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
 # Caffe
